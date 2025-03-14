@@ -1,0 +1,7 @@
+38451	girish shaligram nalkar	savings	1300
+47529	abhiram nair	savings	500
+765928	girish nalkar	savings	200
+744056	anand nair	savings	0
+794158	girish shaligram nalkar	savings	8000
+504208	saurabh shaligram nalkar	savings	5000
+591840	darshan rajesh metkar	savings	0
